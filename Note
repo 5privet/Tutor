@@ -1,0 +1,16 @@
+Misc functions to note
+
+Open files  
+  Open netrw file directory with :Ex
+  To change the sort order, press s
+  To open a file, press Enter
+  https://tuckerchapman.com/2021/02/16/vim-open-files/
+
+Save file in same directory
+  Save as a new file to the same directory as an open file with :w %:h/other_filename
+  Replace other_filename with desired file name
+  https://stackoverflow.com/questions/4980168/how-to-save-as-a-new-file-and-keep-working-on-the-original-one-in-vim
+
+Navigate to a previously opened file
+  Revert back to the alternate file with Ctrl^
+  https://stackoverflow.com/questions/19971023/how-to-go-back-to-previous-opened-file-in-vim
